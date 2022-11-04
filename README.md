@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m Olarewaju Victor
-- 👀 I love coding and reading fantasy nove;s
+- 👀 I love coding and reading fantasy novels
 - 🌱 I’m currently learning software enginneering at altschool africa
 
 
